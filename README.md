@@ -11,6 +11,7 @@ This is a record of my best contributions for this course.  I have included all 
 ## Key Programming Tools:
 - Python
 - Matplotlib
+- -NumPy
 - Fundamentals (Variables, Loops, Data Structures, etc.)
 ## Key Contributions:
 - In an effort to collaborate effectively during the first few weeks of this course, I organized a polling system in our program's discord server to help organize the efforts of some students that chose to partcipiate.  This was a great way to foster effective teamwork early on, with broader conversations and collaboration shifting to Piazza for the duration of the course.
